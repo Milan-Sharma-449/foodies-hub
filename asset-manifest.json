@@ -1,15 +1,24 @@
 {
   "files": {
     "main.css": "/foodies-hub/static/css/main.21dd735e.css",
-    "main.js": "/foodies-hub/static/js/main.931719cc.js",
+    "main.js": "/foodies-hub/static/js/main.cab41ac4.js",
     "static/js/787.1f7d90ec.chunk.js": "/foodies-hub/static/js/787.1f7d90ec.chunk.js",
+    "static/media/img_2.jpg": "/foodies-hub/static/media/img_2.71bb566e061dd99e062c.jpg",
+    "static/media/img_3.jpg": "/foodies-hub/static/media/img_3.b6f7033b2dea95b41ed9.jpg",
+    "static/media/img_6.jpg": "/foodies-hub/static/media/img_6.af01b558fc081edc3635.jpg",
+    "static/media/img_4.jpg": "/foodies-hub/static/media/img_4.a00037e9e8272e31c12b.jpg",
+    "static/media/img_1.jpg": "/foodies-hub/static/media/img_1.2dc1b3b61239b44254f8.jpg",
+    "static/media/img_9.jpg": "/foodies-hub/static/media/img_9.b532ca193527248cf0f5.jpg",
+    "static/media/img_7.jpg": "/foodies-hub/static/media/img_7.cffd34618a1815cd211c.jpg",
+    "static/media/img_8.jpg": "/foodies-hub/static/media/img_8.58b89eb6a500d48a77f5.jpg",
+    "static/media/img_5.jpg": "/foodies-hub/static/media/img_5.eec0e06115382189cc2d.jpg",
     "index.html": "/foodies-hub/index.html",
     "main.21dd735e.css.map": "/foodies-hub/static/css/main.21dd735e.css.map",
-    "main.931719cc.js.map": "/foodies-hub/static/js/main.931719cc.js.map",
+    "main.cab41ac4.js.map": "/foodies-hub/static/js/main.cab41ac4.js.map",
     "787.1f7d90ec.chunk.js.map": "/foodies-hub/static/js/787.1f7d90ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21dd735e.css",
-    "static/js/main.931719cc.js"
+    "static/js/main.cab41ac4.js"
   ]
 }
