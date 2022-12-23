@@ -1,7 +1,7 @@
-import HeroSection from "../components/HeroSection";
-import ImproveSkills from "../components/ImproveSkills";
-import QouteSection from "../components/QuoteSection";
-import ChiefsSection from "../components/ChiefsSection";
+import HeroSection from "../component/HeroSection";
+import ImproveSkills from "../component/ImproveSkills";
+import QouteSection from "../component/QuoteSection";
+import ChiefsSection from "../component/ChiefsSection";
 
 
 export default function Home(){
