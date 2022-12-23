@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodies-hub/static/css/main.21dd735e.css",
+    "main.js": "/foodies-hub/static/js/main.931719cc.js",
+    "static/js/787.1f7d90ec.chunk.js": "/foodies-hub/static/js/787.1f7d90ec.chunk.js",
+    "index.html": "/foodies-hub/index.html",
+    "main.21dd735e.css.map": "/foodies-hub/static/css/main.21dd735e.css.map",
+    "main.931719cc.js.map": "/foodies-hub/static/js/main.931719cc.js.map",
+    "787.1f7d90ec.chunk.js.map": "/foodies-hub/static/js/787.1f7d90ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21dd735e.css",
+    "static/js/main.931719cc.js"
+  ]
+}
