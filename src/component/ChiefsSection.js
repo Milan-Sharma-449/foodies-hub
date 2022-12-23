@@ -1,40 +1,46 @@
 import ChiefCard from "./ChiefCard"
+import IMG1 from '../img/top-chiefs/img_1.jpg'
+import IMG2 from '../img/top-chiefs/img_2.jpg'
+import IMG3 from '../img/top-chiefs/img_3.jpg'
+import IMG4 from '../img/top-chiefs/img_4.jpg'
+import IMG5 from '../img/top-chiefs/img_5.jpg'
+import IMG6 from '../img/top-chiefs/img_6.jpg'
 
 export default function ChiefsSection(){
     const chiefs = [
         {
             name: "Juan Carlos",
-            img: "/img/top-chiefs/img_1.jpg",
+            img: IMG1,
             recipesCount: "10",
             cuisine: "Mexican",
         },
         {
             name: "John Doe",
-            img: "/img/top-chiefs/img_2.jpg",
+            img: IMG2,
             recipesCount: "05",
             cuisine: "Japanese",
         },
         {
             name: "Erich Maria",
-            img: "/img/top-chiefs/img_3.jpg",
+            img: IMG3,
             recipesCount: "13",
             cuisine: "Italian",
         },
         {
             name: "Chris Brown",
-            img: "/img/top-chiefs/img_4.jpg",
+            img: IMG4,
             recipesCount: "08",
             cuisine: "American"
         },
         {
             name: "Blake Lively",
-            img: "/img/top-chiefs/img_5.jpg",
+            img: IMG5,
             recipesCount: "09",
             cuisine: "French"
         },
         {
             name: "Ben Affleck",
-            img: "/img/top-chiefs/img_6.jpg",
+            img: IMG6,
             recipesCount: "04",
             cuisine: "Indian"
         }
