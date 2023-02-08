@@ -11,17 +11,17 @@ export default function Navbar(){
     const links = [
         {
             name: "Home",
-            path: "/",
+            path: "/foodies-hub/",
             icon: faHome
         },
         {
             name: "Recipes",
-            path: "/recipes",
+            path: "/foodies-hub/recipes",
             icon: faList
         },
         {
             name: "Settings",
-            path: "/settings",
+            path: "/foodies-hub/settings",
             icon: faCog
         }
     ]
@@ -32,7 +32,7 @@ export default function Navbar(){
     return (
         <>
             <div className="navbar container">
-                <Link to="/" className="logo">F<span>oo</span>diesHub</Link>
+                <Link to="/foodies-hub" className="logo">F<span>oo</span>diesHub</Link>
                 <div className="nav-links">
                     { links.map(link => (
                         <Link className={location.pathname === link.path ? "active" : ""} to={link.path} key={link.name}>{link.name}</Link>

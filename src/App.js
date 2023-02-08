@@ -17,9 +17,9 @@ function App() {
       <Navbar />
       <div className="container main">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/recipes" element={<Recipes />} />
-          <Route path="/settings" element={<Settings />} />
+          <Route path="/foodies-hub/" element={<Home />} />
+          <Route path="/foodies-hub/recipes" element={<Recipes />} />
+          <Route path="/foodies-hub/settings" element={<Settings />} />
         </Routes>
       </div>
       <Footer />
