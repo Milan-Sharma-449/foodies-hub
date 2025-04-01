@@ -1,7 +1,7 @@
 {
   "name": "foodies-hub",
-  "homepage": "https://milansharma.me/foodies-hub",
-  "version": "0.1.0",
+  "homepage": "https://milansharma.in/foodieshub",
+  "version": "0.1.9",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
